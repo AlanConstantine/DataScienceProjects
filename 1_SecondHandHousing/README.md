@@ -1,7 +1,7 @@
 ### Second Hand Housing Analysis with Python
 #### Reference
-* [入门Python数据分析最好的实战项目（一）](https://segmentfault.com/a/1190000015440560)
-* [入门Python数据分析最好的实战项目（二）](https://segmentfault.com/a/1190000015613967)
+1. [入门Python数据分析最好的实战项目（一）](https://segmentfault.com/a/1190000015440560)
+2. [入门Python数据分析最好的实战项目（二）](https://segmentfault.com/a/1190000015613967)
 
 #### Notes
 
