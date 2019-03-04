@@ -1,5 +1,5 @@
-# DataScienceProjects
-One week! One project!
+# Data Science Projects
+***One week! One project!***
 
 1. [Second Hand Housing Analysis](https://github.com/AlanConstantine/DataScienceProjects/tree/master/1_SecondHandHousing) (1st Week)
 2. [Basic Data Preprocessing](https://github.com/AlanConstantine/DataScienceProjects/tree/master/2_BasicDataPreprocessing)(2nd Week)
