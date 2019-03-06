@@ -16,3 +16,4 @@
 
 5. ```seaborn.heatmap()```
     * **颜色偏红或者偏蓝都说明相关系数较大**，即两个特征对于目标变量的影响程度相似，即存在严重的重复信息，会造成过拟合现象。因此，通过特征相关性分析，我们可以找出哪些特征有严重的重叠信息，然后择优选择。
+    ![](https://github.com/AlanConstantine/DataScienceProjects/blob/master/1_SecondHandHousing/heatmap.png)
