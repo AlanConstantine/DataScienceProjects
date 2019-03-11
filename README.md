@@ -14,7 +14,7 @@
 #### List
 1. [Second Hand Housing Analysis](https://github.com/AlanConstantine/DataScienceProjects/tree/master/1_SecondHandHousing)(1st Week)
     1. [Feature Analysis](https://github.com/AlanConstantine/DataScienceProjects/blob/master/1_SecondHandHousing/SecondHandHousingFeaturesAnalysis.ipynb)
-    2. Feature Engineering & Data Prediction
+    2. [Feature Engineering & Data Prediction](https://github.com/AlanConstantine/DataScienceProjects/blob/master/1_SecondHandHousing/FeatureEngineeringandDataPrediction.ipynb)
 2. [Basic Data Preprocessing](https://github.com/AlanConstantine/DataScienceProjects/tree/master/2_BasicDataPreprocessing)(2nd Week)
 
 #### Notes
