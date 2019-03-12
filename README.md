@@ -11,13 +11,18 @@
 * Kaggle经典项目
 项目里面会写上自己的学习心得，项目的READMED会给出参考和转载的原网址。
 
-#### List
+### List
 1. [Second Hand Housing Analysis](https://github.com/AlanConstantine/DataScienceProjects/tree/master/1_SecondHandHousing)(1st Week)
     1. [Feature Analysis](https://github.com/AlanConstantine/DataScienceProjects/blob/master/1_SecondHandHousing/SecondHandHousingFeaturesAnalysis.ipynb)
     2. [Feature Engineering & Data Prediction](https://github.com/AlanConstantine/DataScienceProjects/blob/master/1_SecondHandHousing/FeatureEngineeringandDataPrediction.ipynb)
 2. [Basic Data Preprocessing](https://github.com/AlanConstantine/DataScienceProjects/tree/master/2_BasicDataPreprocessing)(2nd Week)
 
-#### Notes
+### Notes
 * Seaborn是基于matplotlib的Python可视化库。 它提供了一个高级界面来绘制有吸引力的统计图形。Seaborn其实是在matplotlib的基础上进行了更高级的API封装，从而使得作图更加容易，不需要经过大量的调整就能使你的图变得精致。但应强调的是，**应该把Seaborn视为matplotlib的补充，而不是替代物。**
+
+### Reference
+* [特征工程之特征选择](https://www.cnblogs.com/pinard/p/9032759.html)
+* [特征工程之特征表达](https://www.cnblogs.com/pinard/p/9061549.html)
+* [特征工程之特征预处理](https://www.cnblogs.com/pinard/p/9093890.html)
 
 #### [个人博客](https://blog.csdn.net/AlanConstantineLau)
