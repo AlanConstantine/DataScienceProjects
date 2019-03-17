@@ -16,6 +16,8 @@
     1. [Feature Analysis](https://github.com/AlanConstantine/DataScienceProjects/blob/master/1_SecondHandHousing/SecondHandHousingFeaturesAnalysis.ipynb)
     2. [Feature Engineering & Data Prediction](https://github.com/AlanConstantine/DataScienceProjects/blob/master/1_SecondHandHousing/FeatureEngineeringandDataPrediction.ipynb)
 2. [Basic Data Preprocessing](https://github.com/AlanConstantine/DataScienceProjects/tree/master/2_BasicDataPreprocessing)(2nd Week)
+3. [3_TitanicMachineLearningfromDisaster](https://github.com/AlanConstantine/DataScienceProjects/tree/master/3_TitanicMachineLearningfromDisaster)(3~4th Week)
+
 
 ## Notes
 ### 小记
