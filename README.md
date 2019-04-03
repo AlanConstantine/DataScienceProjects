@@ -110,6 +110,10 @@
             * 第二种思路是对类别样本数少的样本做过采样, 还是上面的例子，我们对B类别的样本做过采样，直到过采样得到的B类别样本数加上B类别原来样本一起和A类样本数一致，最后再去拟合模型。
         * 上述两种常用的采样法很简单，但是都有个问题，就是采样后改变了训练集的分布，可能导致泛化能力差。所以有的算法就通过其他方法来避免这个问题，比如SMOTE算法通过人工合成的方法来生成少类别的样本。
 
+### 异常值检测与处理
+* [Detect and exclude outliers in Pandas data frame](https://stackoverflow.com/questions/23199796/detect-and-exclude-outliers-in-pandas-data-frame)
+* [财通金工】“拾穗”多因子（五）：数据异常值处理：比较与实践](https://mp.weixin.qq.com/s/uQksjDJ3TCDWqZ-6eUR6Uw)
+
 ### 缺失值处理
 ![](https://pic2.zhimg.com/80/v2-33fd18869493bbe07dbf36755ee52d61_hd.jpg)
 
