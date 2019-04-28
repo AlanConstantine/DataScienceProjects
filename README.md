@@ -16,7 +16,7 @@
     2. [Feature Engineering & Data Prediction](https://github.com/AlanConstantine/DataScienceProjects/blob/master/1_SecondHandHousing/FeatureEngineeringandDataPrediction.ipynb)
 2. [Basic Data Preprocessing](https://github.com/AlanConstantine/DataScienceProjects/tree/master/2_BasicDataPreprocessing)(2nd Week)
 3. [TitanicMachineLearningfromDisaster](https://github.com/AlanConstantine/DataScienceProjects/tree/master/3_TitanicMachineLearningfromDisaster)(3~4th Week)
-4. [ISI-WorldCup2019 (Mission 1)](https://github.com/AlanConstantine/ISI-WorldCup2019)
+4. [ISI-WorldCup2019 (Mission 1, 第一次参加正式比赛：25/308 top8%)](https://github.com/AlanConstantine/ISI-WorldCup2019)
 
 ## Notes
 ### 小记
